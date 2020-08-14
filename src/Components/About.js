@@ -41,17 +41,18 @@ class About extends Component {
                   <span>{email}</span>
                 </p>
               </div>
-                <div className="columns download">
-                  <p>
-                    <a
-                      style={{ display: "table-cell" }}
-                      href={resumeDownload}
-                      className="button"
-                    >
-                      <i className="fa fa-eye"></i>View Resume
-                    </a>
-                  </p>
-                </div>
+              <div className="columns download">
+                <p>
+                  <a
+                    href={resumeDownload}
+                    className="button"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <i className="fa fa-eye"></i>View Resume
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
