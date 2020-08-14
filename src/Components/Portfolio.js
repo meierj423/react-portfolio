@@ -27,6 +27,11 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <div>
+              <a target="_blank" rel="noopener noreferrer" href={projects.repo}>
+                <p>Link to GitHub Repo</p>
+              </a>
+            </div>
           </div>
         );
       });
