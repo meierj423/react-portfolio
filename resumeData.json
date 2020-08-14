@@ -45,37 +45,43 @@
         "title":"Harry Potter Sorting Hat Quiz",
         "category":"See which Hogwarts House you belong to",
         "image":"sorting-hat-quiz.jpg",
-        "url":"https://tlam1288.github.io/Sorting-Hat-Quiz/"
+        "url":"https://tlam1288.github.io/Sorting-Hat-Quiz/",
+        "repo":"https://github.com/tlam1288/Sorting-Hat-Quiz"
       },
       {
         "title":"The Binge Guide",
         "category":"Prioritize your next streaming binge here",
         "image":"filled-search.jpg",
-        "url":"https://jmsj2.herokuapp.com/"
+        "url":"https://jmsj2.herokuapp.com/",
+        "repo":"https://github.com/Q118/jmsj"
       },
       {
         "title":"JavaScript Quiz",
         "category":"A quiz to test your JavaScript knowledge",
         "image":"code-quiz.jpg",
-        "url":"https://meierj423.github.io/code-quiz/"
+        "url":"https://meierj423.github.io/code-quiz/",
+        "repo":"https://github.com/meierj423/code-quiz"
       },
       {
         "title":"Password Generator",
         "category":"Random password generator",
         "image":"password-generator.jpg",
-        "url":"https://meierj423.github.io/password-generator/"
+        "url":"https://meierj423.github.io/password-generator/",
+        "repo":"https://github.com/meierj423/password-generator"
       },
       {
         "title":"Day Planner",
         "category":"Keep track of important events here",
         "image":"day-planner.jpg",
-        "url":"https://meierj423.github.io/day-planner/"
+        "url":"https://meierj423.github.io/day-planner/",
+        "repo":"https://github.com/meierj423/day-planner"
       },
       {
         "title":"Devour a Burger",
         "category":"An application for keeping track of burgers that have either been devoured or soon to be devoured",
         "image":"screenshot-1.jpg",
-        "url":"https://afternoon-cliffs-58576.herokuapp.com/"
+        "url":"https://afternoon-cliffs-58576.herokuapp.com/",
+        "repo":"https://github.com/meierj423/burger"
       }
     ]
   }
