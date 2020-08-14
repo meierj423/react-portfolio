@@ -291,9 +291,19 @@ p {
 p img {
   margin: 0;
 }
-p.lead {
-  font: 19px/36px "opensans-light", sans-serif;
+h4.address {
+  text-align: center;
+}
+h2.lead {
+  font: 40px/60px "opensans-bold", sans-serif;
   margin-bottom: 18px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+p.address {
+  text-align: center;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with

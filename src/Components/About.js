@@ -3,14 +3,11 @@ import React, { Component } from "react";
 class About extends Component {
   render() {
     if (this.props.data) {
-      var name = this.props.data.name;
       var profilepic =
         process.env.PUBLIC_URL + "/images/" + this.props.data.image;
       var bio1 = this.props.data.bio1;
       var bio2 = this.props.data.bio2;
       var bio3 = this.props.data.bio3;
-      var phone = this.props.data.phone;
-      var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
 
@@ -31,16 +28,6 @@ class About extends Component {
             <p>{bio2}</p>
             <p>{bio3}</p>
             <div className="row">
-              <div className="columns contact-details">
-                <h2>Contact Details</h2>
-                <p className="address">
-                  <span>{name}</span>
-                  <br />
-                  <span>{phone}</span>
-                  <br />
-                  <span>{email}</span>
-                </p>
-              </div>
               <div className="columns download">
                 <p>
                   <a
