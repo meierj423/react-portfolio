@@ -7,14 +7,13 @@
     "bio1":"I am currently enrolled in a coding bootcamp with UCSD Extension. Prior to the start of the bootcamp, I served in the U.S. Navy for three years as an Intelligence Officer. My longtime fascination with technology and computers has led me to begin a new career in software development.",
     "bio2":"After graduating high school, I attended a United States Naval Academy Foundation school called New Mexico Military Institute located in Rosewell, New Mexico. After a successful academic year in New Mexico, I earned my appointment to the Naval Academy in the spring of 2013. After four challenging, yet rewarding, years in Annapolis, I earned my B.S. in Mathematics and commissioned as an officer in May 2017.",
     "bio3":"My hobbies include going on adventures with my wife such as traveling or finding new places to eat in San Diego. I also enjoy running, watching sports, reading, cooking/baking, bowling, playing board games, and taking our puppy, Ollie, out for walks.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Please contact me if you have any questions!",
     "email": "jackson.meier423@gmail.com",
     "phone": "(513) 265-4090",
     "address":{
       "city":"San Diego",
       "state":"California"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"https://docs.google.com/document/d/1dP9gipLTtnFdUcD3PQMibt4ixC-L4Z0Hzcd80YZyxlo/edit?usp=sharing",
     "social":[
       {
@@ -35,67 +34,48 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+    "languages":"HTML, CSS, JavaScript, Handlebars.js",
+    "platforms":"GitHub, Heroku, Bootstrap, Express.js, Node.js",
+    "libraries":"jQuery, React.js, Sequelize.js",
+    "databases":"MongoDB, MySQL"
       },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ]
-  },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Harry Potter Sorting Hat Quiz",
+        "category":"See which Hogwarts House you belong to",
+        "image":"sorting-hat-quiz.jpg",
+        "url":"https://tlam1288.github.io/Sorting-Hat-Quiz/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"The Binge Guide",
+        "category":"Prioritize your next streaming binge here",
+        "image":"filled-search.jpg",
+        "url":"https://jmsj2.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"JavaScript Quiz",
+        "category":"A quiz to test your JavaScript knowledge",
+        "image":"code-quiz.jpg",
+        "url":"https://meierj423.github.io/code-quiz/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Password Generator",
+        "category":"Random password generator",
+        "image":"password-generator.jpg",
+        "url":"https://meierj423.github.io/password-generator/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Day Planner",
+        "category":"Keep track of important events here",
+        "image":"day-planner.jpg",
+        "url":"https://meierj423.github.io/day-planner/"
+      },
+      {
+        "title":"Devour a Burger",
+        "category":"An application for keeping track of burgers that have either been devoured or soon to be devoured",
+        "image":"screenshot-1.jpg",
+        "url":"https://afternoon-cliffs-58576.herokuapp.com/"
       }
     ]
   }
