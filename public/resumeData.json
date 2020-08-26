@@ -4,9 +4,8 @@
     "occupation":"Software Developer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio1":"I am currently enrolled in a coding bootcamp with UCSD Extension. Prior to the start of the bootcamp, I served in the U.S. Navy for three years as an Intelligence Officer. My longtime fascination with technology and computers has led me to begin a new career in software development.",
-    "bio2":"After graduating high school, I attended a United States Naval Academy Foundation school called New Mexico Military Institute located in Rosewell, New Mexico. After a successful academic year in New Mexico, I earned my appointment to the Naval Academy in the spring of 2013. After four challenging, yet rewarding, years in Annapolis, I earned my B.S. in Mathematics and commissioned as an officer in May 2017.",
-    "bio3":"My hobbies include going on adventures with my wife such as traveling or finding new places to eat in San Diego. I also enjoy running, watching sports, reading, cooking/baking, bowling, playing board games, and taking our puppy, Ollie, out for walks.",
+    "bio1":"I graduated from the United States Naval Academy with a Bachelor of Science in Mathematics and commissioned as a Naval Officer in May 2017. I began my Naval career as a nuclear submarine officer where I underwent rigorous academic training at both the Naval Nuclear Power Training Command in Charleston, SC and the Nuclear Power Training Unit in Ballston Spa, NY. In November 2018, I transitioned into the Information Warfare Community as a Naval Intelligence Officer where I specialized in Aviation Intelligence. In May 2020, I transitioned into the civilian sector and currently live in San Diego with my wife and puppy.",
+    "bio2":"My journey as a Software Developer started June 2020 when I began a 12-week coding bootcamp at the University of California, San Diego Extension. I excelled during the program with the help of my background in mathematics and military training. I was able to collaborate with many other talented junior developers during the bootcamp, which I enjoyed greatly. The amazing projects my teammates and I were able to create in such a limited amount of time is something that I am extremely proud of. Please take a look at some of the projects below and feel free to contact me with any questions! ",
     "contactmessage":"Contact Me",
     "email": "jackson.meier423@gmail.com",
     "phone": "(513) 265-4090",
@@ -41,6 +40,13 @@
       },
   "portfolio":{
     "projects": [
+      {
+        "title":"GeoQuiz",
+        "category":"A quiz to test your geographical knowledge",
+        "image":"geoquiz.png",
+        "url":"https://geo1quiz.herokuapp.com/",
+        "repo":" https://github.com/robertluttig/geoquiz"
+      },
       {
         "title":"Harry Potter Sorting Hat Quiz",
         "category":"See which Hogwarts House you belong to",

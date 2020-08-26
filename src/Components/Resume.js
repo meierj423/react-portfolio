@@ -19,22 +19,22 @@ class Resume extends Component {
           </div>
 
           <div className="skills nine columns main-col">
-            <span>Languages: </span>
+            <strong>Languages: </strong>
             <br />
             <span>{languages}</span>
             <br />
             <br />
-            <span>Platforms and Frameworks:</span>
+            <strong>Platforms and Frameworks:</strong>
             <br />
             <span>{platforms}</span>
             <br />
             <br />
-            <span>Libraries: </span>
+            <strong>Libraries: </strong>
             <br />
             <span>{libraries}</span>
             <br />
             <br />
-            <span>Databases: </span>
+            <strong>Databases: </strong>
             <br />
             <span>{databases}</span>
           </div>

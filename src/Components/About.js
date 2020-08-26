@@ -7,7 +7,6 @@ class About extends Component {
         process.env.PUBLIC_URL + "/images/" + this.props.data.image;
       var bio1 = this.props.data.bio1;
       var bio2 = this.props.data.bio2;
-      var bio3 = this.props.data.bio3;
       var resumeDownload = this.props.data.resumedownload;
     }
 
@@ -26,7 +25,6 @@ class About extends Component {
 
             <p>{bio1}</p>
             <p>{bio2}</p>
-            <p>{bio3}</p>
             <div className="row">
               <div className="columns download">
                 <p>
