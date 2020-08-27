@@ -45,7 +45,7 @@
         "category":"A quiz to test your geographical knowledge",
         "image":"geoquiz.png",
         "url":"https://geo1quiz.herokuapp.com/",
-        "repo":" https://github.com/robertluttig/geoquiz"
+        "repo":"https://github.com/meierj423/geoquiz"
       },
       {
         "title":"Harry Potter Sorting Hat Quiz",
@@ -59,7 +59,7 @@
         "category":"Prioritize your next streaming binge here",
         "image":"filled-search.jpg",
         "url":"https://jmsj2.herokuapp.com/",
-        "repo":"https://github.com/Q118/jmsj"
+        "repo":"https://github.com/meierj423/jmsj"
       },
       {
         "title":"JavaScript Quiz",
