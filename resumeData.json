@@ -43,6 +43,7 @@
       {
         "title":"GeoQuiz",
         "category":"A quiz to test your geographical knowledge",
+        "tech": "Technologies: HTML, JavaScript, MorganDB, Express, React, Node, Google Maps API, Back4apps API",
         "image":"geoquiz.png",
         "url":"https://geo1quiz.herokuapp.com/",
         "repo":"https://github.com/meierj423/geoquiz"
@@ -50,6 +51,7 @@
       {
         "title":"Harry Potter Sorting Hat Quiz",
         "category":"See which Hogwarts House you belong to",
+        "tech": "Technologies: HTML, CSS, JavaScript, Foundation, jQuery, Harry Potter API",
         "image":"sorting-hat-quiz.jpg",
         "url":"https://tlam1288.github.io/Sorting-Hat-Quiz/",
         "repo":"https://github.com/meierj423/Sorting-Hat-Quiz"
@@ -57,34 +59,15 @@
       {
         "title":"The Binge Guide",
         "category":"Prioritize your next streaming binge here",
+        "tech": "Technologies: HTML, CSS, JavaScript, Node, Express, Handlebars, sequelize, jQuery, MySQL, Utelly API",
         "image":"filled-search.jpg",
         "url":"https://jmsj2.herokuapp.com/",
         "repo":"https://github.com/meierj423/jmsj"
       },
       {
-        "title":"JavaScript Quiz",
-        "category":"A quiz to test your JavaScript knowledge",
-        "image":"code-quiz.jpg",
-        "url":"https://meierj423.github.io/code-quiz/",
-        "repo":"https://github.com/meierj423/code-quiz"
-      },
-      {
-        "title":"Password Generator",
-        "category":"Random password generator",
-        "image":"password-generator.jpg",
-        "url":"https://meierj423.github.io/password-generator/",
-        "repo":"https://github.com/meierj423/password-generator"
-      },
-      {
-        "title":"Day Planner",
-        "category":"Keep track of important events here",
-        "image":"day-planner.jpg",
-        "url":"https://meierj423.github.io/day-planner/",
-        "repo":"https://github.com/meierj423/day-planner"
-      },
-      {
         "title":"Devour a Burger",
         "category":"An application for keeping track of burgers that have either been devoured or soon to be devoured",
+        "tech": "Technologies: HTML, CSS, JavaScript, Node, Express, Handlebars, MySQL",
         "image":"screenshot-1.jpg",
         "url":"https://afternoon-cliffs-58576.herokuapp.com/",
         "repo":"https://github.com/meierj423/burger"
