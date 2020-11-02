@@ -41,6 +41,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Smart Walker",
+        "category":"An application for helping you plan safe walks with your dog",
+        "tech": "Technologies: HTML, CSS, JavaScript, Express.js, React.js, Node.js, Bootstrap",
+        "image":"orlando-results.png",
+        "url":"https://smart-walker.herokuapp.com/",
+        "repo":"https://github.com/meierj423/smart-walker"
+      },
+      {
         "title":"GeoQuiz",
         "category":"A quiz to test your geographical knowledge",
         "tech": "Technologies: HTML, JavaScript, MorganDB, Express, React, Node, Google Maps API, Back4apps API",
