@@ -158,10 +158,10 @@ pre {
   word-wrap: break-word;
 }
 
-blockquote,
+/* blockquote,
 q {
   quotes: &#8220 &#8220;
-}
+} */
 
 blockquote:before,
 blockquote:after,
