@@ -1,84 +1,76 @@
 {
   "main": {
-    "name":"Jack Meier",
-    "occupation":"Software Developer",
-    "description":"",
-    "image":"profilepic.jpg",
-    "bio1":"I graduated from the United States Naval Academy with a Bachelor of Science in Mathematics and commissioned as a Naval Officer in May 2017. I began my Naval career as a nuclear submarine officer where I underwent rigorous academic training at both the Naval Nuclear Power Training Command in Charleston, SC and the Nuclear Power Training Unit in Ballston Spa, NY. In November 2018, I transitioned into the Information Warfare Community as a Naval Intelligence Officer where I specialized in Aviation Intelligence. In May 2020, I transitioned into the civilian sector and currently live in San Diego with my wife and puppy.",
-    "bio2":"My journey as a Software Developer started June 2020 when I began a 12-week coding bootcamp at the University of California, San Diego Extension. I excelled during the program with the help of my background in mathematics and military training. I was able to collaborate with many other talented junior developers during the bootcamp, which I enjoyed greatly. The amazing projects my teammates and I were able to create in such a limited amount of time is something that I am extremely proud of. Please take a look at some of the projects below and feel free to contact me with any questions! ",
-    "contactmessage":"Contact Me",
+    "name": "Jack Meier",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio1": "I graduated from the United States Naval Academy with a Bachelor of Science in Mathematics and commissioned as a Naval Officer in May 2017. I began my Naval career as a nuclear submarine officer where I underwent rigorous academic training at both the Naval Nuclear Power Training Command in Charleston, SC and the Nuclear Power Training Unit in Ballston Spa, NY. In November 2018, I transitioned into the Information Warfare Community as a Naval Intelligence Officer where I specialized in Aviation Intelligence. In May 2020, I transitioned into the civilian sector and currently live in San Diego with my wife and puppy.",
+    "bio2": "My journey as a Software Engineer started June 2020 when I began a 12-week coding bootcamp at the University of California, San Diego Extension. I excelled during the program with the help of my background in mathematics and military training. I was able to collaborate with many other talented junior developers during the bootcamp, which I enjoyed greatly. The amazing projects my teammates and I were able to create in such a limited amount of time is something that I am extremely proud of. Please take a look at some of the projects below and feel free to contact me with any questions! ",
+    "contactmessage": "Contact Me",
     "email": "jackson.meier423@gmail.com",
     "phone": "(513) 265-4090",
-    "address":{
-      "city":"San Diego",
-      "state":"California"
+    "address": {
+      "city": "San Diego",
+      "state": "California"
     },
-    "resumedownload":"https://docs.google.com/document/d/1dP9gipLTtnFdUcD3PQMibt4ixC-L4Z0Hzcd80YZyxlo/edit?usp=sharing",
-    "social":[
+    "resumedownload": "https://docs.google.com/document/d/1dP9gipLTtnFdUcD3PQMibt4ixC-L4Z0Hzcd80YZyxlo/edit?usp=sharing",
+    "social": [
       {
-        "name":"twitter",
-        "url":"https://twitter.com/jxnmeier",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/jxnmeier",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/jackson-meier/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jackson-meier/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/meierj423",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/meierj423",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "languages":"HTML, CSS, JavaScript, Handlebars.js",
-    "platforms":"GitHub, Heroku, Bootstrap, Express.js, Node.js",
-    "libraries":"jQuery, React.js, Sequelize.js",
-    "databases":"MongoDB, MySQL"
-      },
-  "portfolio":{
+  "resume": {
+    "languages": "HTML, CSS, JavaScript, Handlebars.js",
+    "platforms": "GitHub, Heroku, Bootstrap, Express.js, Node.js",
+    "libraries": "jQuery, React.js, Sequelize.js",
+    "databases": "MongoDB, MySQL"
+  },
+  "portfolio": {
     "projects": [
       {
-        "title":"Smart Walker",
-        "category":"An application for helping you plan safe walks with your dog",
+        "title": "Smart Walker",
+        "category": "An application for helping you plan safe walks with your dog",
         "tech": "Technologies: HTML, CSS, JavaScript, Express.js, React.js, Node.js, Bootstrap",
-        "image":"orlando-results.png",
-        "url":"https://smart-walker.herokuapp.com/",
-        "repo":"https://github.com/meierj423/smart-walker"
+        "image": "orlando-results.png",
+        "url": "https://smart-walker.herokuapp.com/",
+        "repo": "https://github.com/meierj423/smart-walker"
       },
       {
-        "title":"GeoQuiz",
-        "category":"A quiz to test your geographical knowledge",
+        "title": "GeoQuiz",
+        "category": "A quiz to test your geographical knowledge",
         "tech": "Technologies: HTML, JavaScript, MorganDB, Express, React, Node, Google Maps API, Back4apps API",
-        "image":"geoquiz.png",
-        "url":"https://geo1quiz.herokuapp.com/",
-        "repo":"https://github.com/meierj423/geoquiz"
+        "image": "geoquiz.png",
+        "url": "https://geo1quiz.herokuapp.com/",
+        "repo": "https://github.com/meierj423/geoquiz"
       },
       {
-        "title":"Harry Potter Sorting Hat Quiz",
-        "category":"See which Hogwarts House you belong to",
+        "title": "Harry Potter Sorting Hat Quiz",
+        "category": "See which Hogwarts House you belong to",
         "tech": "Technologies: HTML, CSS, JavaScript, Foundation, jQuery, Harry Potter API",
-        "image":"sorting-hat-quiz.jpg",
-        "url":"https://tlam1288.github.io/Sorting-Hat-Quiz/",
-        "repo":"https://github.com/meierj423/Sorting-Hat-Quiz"
+        "image": "sorting-hat-quiz.jpg",
+        "url": "https://tlam1288.github.io/Sorting-Hat-Quiz/",
+        "repo": "https://github.com/meierj423/Sorting-Hat-Quiz"
       },
       {
-        "title":"The Binge Guide",
-        "category":"Prioritize your next streaming binge here",
+        "title": "The Binge Guide",
+        "category": "Prioritize your next streaming binge here",
         "tech": "Technologies: HTML, CSS, JavaScript, Node, Express, Handlebars, sequelize, jQuery, MySQL, Utelly API",
-        "image":"filled-search.jpg",
-        "url":"https://jmsj2.herokuapp.com/",
-        "repo":"https://github.com/meierj423/jmsj"
-      },
-      {
-        "title":"Devour a Burger",
-        "category":"An application for keeping track of burgers that have either been devoured or soon to be devoured",
-        "tech": "Technologies: HTML, CSS, JavaScript, Node, Express, Handlebars, MySQL",
-        "image":"screenshot-1.jpg",
-        "url":"https://afternoon-cliffs-58576.herokuapp.com/",
-        "repo":"https://github.com/meierj423/burger"
+        "image": "filled-search.jpg",
+        "url": "https://jmsj2.herokuapp.com/",
+        "repo": "https://github.com/meierj423/jmsj"
       }
     ]
   }
